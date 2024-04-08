@@ -13,3 +13,11 @@
 - "Programming in ANSI C" by Loughborough University Institutional Repository (Chapter 7.3)
 - ISO/IEC 9899:2017 standards (Chapter 6.8.4.2)
 
+
+## How to Use
+
+You need a compiler to run the calculator.
+
+[You can check out this tutorial on how to compile C programs](https://jestery.kesug.com/how-to-compile-c-programs/).
+
+Also, you need to install the GTK library since the program uses GTK for the graphical user interface.
